@@ -1,0 +1,10 @@
+Code-Review+2: Fiete Ostkamp <fiete.ostkamp@telekom.de>
+Verified+1: Fiete Ostkamp <fiete.ostkamp@telekom.de>
+Verified+1: ONAP Bypass GHA <releng+onap.bypass.gha@linuxfoundation.org>
+Verified+1: ONAP Required GHA <releng+onap.required.gha@linuxfoundation.org>
+Code-Review+2: Byung-Woo Jun <byung-woo.jun@est.tech>
+Submitted-by: Fiete Ostkamp <fiete.ostkamp@telekom.de>
+Submitted-at: Fri, 17 Oct 2025 05:56:37 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/portal-ng/+/142081
+Project: portal-ng
+Branch: refs/heads/master
